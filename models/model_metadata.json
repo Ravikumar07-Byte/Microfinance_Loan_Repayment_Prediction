@@ -1,0 +1,19 @@
+{
+    "model": "RandomForestClassifier",
+    "n_estimators": 300,
+    "max_depth": 25,
+    "min_samples_split": 10,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "class_weight": "balanced",
+    "n_features": 25,
+    "threshold": 0.5,
+    "accuracy": 0.889024070230683,
+    "precision": 0.9511336431488523,
+    "recall": 0.9204895467059176,
+    "f1_score": 0.9355607269503546,
+    "macro_f1": 0.7680551359292388,
+    "balanced_accuracy": 0.7944381984294114,
+    "roc_auc": 0.902577591667473,
+    "average_precision": 0.9828279803350712
+}
